@@ -1,6 +1,6 @@
 window.GOOSE_CONFIG = {
   // Production 신청 전에 실제 값으로 교체하세요.
-  discordInviteUrl: "#discord-invite-placeholder",
-  contactEmail: "contact@example.com",
-  serviceUrl: "https://example.com"
-};
+  discordInviteUrl: "https://discord.com/oauth2/authorize?client_id=1529098677954547752&permissions=0&integration_type=0&scope=bot+applications.commands",
+  contactEmail: "wkdduq2ek@naver.com",
+  serviceUrl: "https://goose-production-site.pages.dev"
+
